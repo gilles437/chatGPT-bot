@@ -1,4 +1,4 @@
 # chatGPT-bot
 A bot that analyses screen shots of dextools and give recommandation on possible trade
 
-![Project Logo](Screenshot 2025-03-14 at 06.25.30.png)
+![Screenshot](Screenshot%202025-03-14%20at%2006.25.30.png)
